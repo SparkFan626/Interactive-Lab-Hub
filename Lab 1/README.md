@@ -1,6 +1,6 @@
-##Yixing Fan
+## Yixing Fan
 
-##Since I just enrolled in the course yesterday, I do not have enough time to do Lab1. However, I have found some group to work together, I will complete both Lab1 and Lab2 when doing the submission for Lab2. Thanks for your understanding!
+## Since I just enrolled in the course yesterday, I do not have enough time to do Lab1. However, I have found some group to work together, I will complete both Lab1 and Lab2 when doing the submission for Lab2. Thanks for your understanding!
 
 # Staging Interaction
 
